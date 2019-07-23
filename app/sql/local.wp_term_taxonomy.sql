@@ -4,4 +4,7 @@
 INSERT INTO `wp_term_taxonomy` VALUES
 (1,1,"category","",0,3),
 (2,2,"nav_menu","",0,4),
-(3,3,"nav_menu","",0,5);
+(3,3,"nav_menu","",0,5),
+(4,4,"nav_menu","",0,2),
+(5,5,"nav_menu","",0,3),
+(6,6,"category","",0,1);
