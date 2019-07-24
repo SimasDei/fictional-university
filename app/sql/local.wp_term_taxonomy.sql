@@ -7,4 +7,4 @@ INSERT INTO `wp_term_taxonomy` VALUES
 (3,3,"nav_menu","",0,5),
 (4,4,"nav_menu","",0,2),
 (5,5,"nav_menu","",0,3),
-(6,6,"category","",0,1);
+(6,6,"category","Donec rhoncus ante ac placerat pretium. Curabitur in cursus ipsum.",0,1);
