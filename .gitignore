@@ -52,3 +52,7 @@ nbproject
 .komodotools
 _notes
 dwsync.xml
+
+
+# WP Logs
+./logs
