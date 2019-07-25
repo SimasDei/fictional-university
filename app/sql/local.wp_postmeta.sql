@@ -107,8 +107,6 @@ INSERT INTO `wp_postmeta` VALUES
 (115,35,"_edit_lock","1563798682:1"),
 (116,3,"_edit_lock","1563343285:1"),
 (117,40,"_edit_lock","1563796093:1"),
-(118,42,"_edit_lock","1563343433:1"),
-(119,43,"_edit_lock","1563343462:1"),
 (120,44,"_edit_lock","1563796890:1"),
 (121,9,"_edit_lock","1563343522:1"),
 (122,9,"_wp_trash_meta_status","publish"),
